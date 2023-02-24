@@ -1,0 +1,2 @@
+First|Last|email@email.com|(000) 000-0000
+Doe|Tanaka|tk@aol.com|(999) 000-0099
